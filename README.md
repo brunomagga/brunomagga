@@ -1,12 +1,26 @@
 <h1 align="center">Bem-vindo ao meu GitHub!</h1>
 
-###
+### 
 
 <h3 align="center">Um pouco sobre mim</h3>
 
 ###
 
-<h3 align="left">👋 Fala! Eu sou o Bruno  <br><br>🎓 Estudante de Sistemas de Informação no Mackenzie  <br>📱 Desenvolvedor Android em formação, focado em Kotlin  <br>💙 Curto aprender na prática e construir projetos para evoluir  <br><br>🧠 Já tive contato com:<br>- Kotlin (Android)<br>- Python<br>- HTML, CSS e JavaScript<br>- Consumo de APIs<br>- Banco de dados<br>- Android Studio<br>- Git & GitHub<br><br>🚀 Sempre buscando aprender mais e melhorar como desenvolvedor</h3>
+<h3 align="left">
+👋 Fala! Eu sou o Bruno  <br><br>
+🎓 Estudante de Sistemas de Informação no Mackenzie  <br>
+📱 Desenvolvedor Android em formação, focado em Kotlin  <br>
+💙 Curto aprender na prática e construir projetos para evoluir  <br><br>
+🧠 Já tive contato com:<br>
+- Kotlin (Android)<br>
+- Python<br>
+- HTML, CSS e JavaScript<br>
+- Consumo de APIs<br>
+- Banco de dados<br>
+- Android Studio<br>
+- Git & GitHub<br><br>
+🚀 Sempre buscando aprender mais e melhorar como desenvolvedor
+</h3>
 
 ###
 
@@ -35,3 +49,10 @@
 </div>
 
 ###
+
+<h2 align="left">📫 Contato</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/bruno-magalhaes-687b38305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
