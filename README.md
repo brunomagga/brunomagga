@@ -15,7 +15,7 @@
 <h3 align="left">
 👋 Fala! Eu sou o Bruno  <br><br>
 🎓 Estudante de Sistemas de Informação no Mackenzie  <br>
-📱 Desenvolvedor Android em formação, focado em Kotlin  <br>
+📱 Desenvolvedor Backend e Android em formação, focado em Kotlin e Spring Boot  <br>
 💙 Curto aprender na prática e construir projetos para evoluir  <br><br>
 🧠 Já tive contato com:<br>
 - Kotlin (Android)<br>
@@ -24,6 +24,7 @@
 - Consumo de APIs<br>
 - Banco de dados<br>
 - Android Studio<br>
+- Java<br>
 - Git & GitHub<br><br>
 🚀 Sempre buscando aprender mais e melhorar como desenvolvedor
 </h3>
